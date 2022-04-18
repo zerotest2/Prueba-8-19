@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xDF8e98160294fCb496Fa0eaBd524Ad270E2ce57C",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0xDF8e98160294fCb496Fa0eaBd524Ad270E2ce57C",
+  "NETWORK": {
+    "NAME": "Matic Mumbai",
+    "SYMBOL": "MATIC",
+    "ID": 80001
+  },
+  "NFT_NAME": "Prueba 8",
+  "SYMBOL": "PRB8",
+  "MAX_SUPPLY": 30,
+  "WEI_COST": 100000000000000,
+  "DISPLAY_COST": 0.0001,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/pruebamonos8",
+  "SHOW_BACKGROUND": true
+}
